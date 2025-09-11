@@ -1,2 +1,2 @@
 AVR video
-https://github.com/user-attachments/assets/4ae9ecd0-3010-4a9e-bb6a-db34ba010563
+https://github.com/hala-meselhy/solo-missionn/issues/2#issue-3408063540
